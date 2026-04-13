@@ -2,9 +2,8 @@
   "name": "utkarsh-verma-portfolio",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://utkarshverma-tech.github.io/-my_portfolio",
-  "type": "module",
-  "scripts": {
+"homepage": "https://www.utkarshverma.in",
+"type": "module",  "scripts": {
     "dev": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
